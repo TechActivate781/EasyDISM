@@ -9,6 +9,7 @@ Currently, only the following features are supported:
 - Getting information from a Windows image
 
 The app requires Windows 8.1 to run (although it should run on build 9477 or 9471); commands were changed in the one of the aforementioned builds
+However, a beta version of version 0.9 is offered. It may contain bugs - use at your own risk!
 
 # Usage
 To use the app, launch the .exe file with Administrator privileges. 
