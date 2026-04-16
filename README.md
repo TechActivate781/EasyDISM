@@ -15,5 +15,5 @@ However, a beta version of version 0.9 is offered. It may contain bugs - use at 
 To use the app, launch the .exe file with Administrator privileges. 
 
 # Future updates
-Version 0.9 should add support for Windows 7/8, while version 1.0 should have a GUI.
+Version 0.9 should add support for Windows 7/8 (as well as support for capturing, mounting, and unmounting an image), while version 1.0 should have a GUI.
 After the GUI version is released, CLI builds will still be offered, but they will only be released when a new feature is added.
